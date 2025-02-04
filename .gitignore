@@ -1,0 +1,22 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build output
+/main
+*.out
+
+# Go module cache (usually stored in $GOPATH/pkg/mod) – not needed in repo
+/pkg/mod/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Environment files
+.env
